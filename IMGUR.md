@@ -9,3 +9,15 @@
 ![DevTools Audit css](https://cloud.githubusercontent.com/assets/4200528/17380911/072a9548-59d2-11e6-84ec-0f9d9b51b18b.jpg)
 
 CSS минифицирован, но в нем есть большое количество неиспользованных на главной странице правил - есть смысл изначально загружать только самые необходимые правила для ускорения загрузки.
+
+#### JS
+
+![PageSpeed Insights js head](https://cloud.githubusercontent.com/assets/4200528/17380909/06e4a1fa-59d2-11e6-9126-58bd4d2f95f9.jpg)
+
+Переместить js из начала страницы в конец или использовать `async` / `defer` чтобы не блокировать html рендеринг.
+
+#### Сжатие
+
+![PageSpeed Insights gzip](https://cloud.githubusercontent.com/assets/4200528/17380910/0723bc1e-59d2-11e6-9c4e-585721e2a7b5.jpg)
+
+Использование `gzip` для сжатия значительно уменьшит объем передаваемых данных. 
