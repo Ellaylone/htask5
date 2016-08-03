@@ -1,4 +1,4 @@
-# LIFEHACKER.RU
+# [LIFEHACKER.RU](https://lifehacker.ru/)
 
 ![DevTools Audit resources](https://cloud.githubusercontent.com/assets/4200528/17379662/15aa35f2-59cc-11e6-91d6-5afb81b691f3.jpg)
 
